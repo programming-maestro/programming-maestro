@@ -1,24 +1,347 @@
-# 💫 About Me:
-## 👋 About Me<br><br>I'm a **Quality Engineering Leader | Staff SDET | Test Automation Architect** with **13+ years** of experience building scalable test automation frameworks, quality platforms, and CI/CD pipelines for enterprise SaaS, FinTech, Healthcare, and eCommerce products.<br><br>I enjoy solving complex engineering problems through automation, AI-driven testing, performance engineering, and cloud-native technologies. Currently, I'm expanding my expertise in Machine Learning, Generative AI, MLOps, and intelligent quality engineering.<br><br>- 🔭 **I'm currently working on**<br>  - AI-powered Test Automation<br>  - ML Model Validation Frameworks<br>  - Playwright + Python + FastAPI projects<br>  - Building scalable Quality Engineering platforms<br><br>- 👯 **I'm looking to collaborate on**<br>  - Open Source Testing Tools<br>  - AI Testing & LLM Evaluation<br>  - Playwright, Selenium, Cypress, Appium<br>  - Machine Learning & MLOps projects<br><br>- 🤝 **I'm looking for help with**<br>  - Large-scale AI Testing<br>  - Agentic AI Systems<br>  - Distributed Systems Testing<br>  - Kubernetes & Cloud-native Quality Engineering<br><br>- 🌱 **I'm currently learning**<br>  - Machine Learning<br>  - Deep Learning<br>  - Generative AI<br>  - MLOps<br>  - LLM Evaluation<br>  - Data Engineering<br><br>- 💬 **Ask me about**<br>  - Test Automation<br>  - Quality Engineering<br>  - Playwright<br>  - Selenium<br>  - API Testing<br>  - Performance Testing<br>  - CI/CD<br>  - Python<br>  - Java<br>  - Test Architecture<br><br>- ⚡ **Fun fact**<br>  - I enjoy automating repetitive tasks so engineers can focus on solving real problems.
+# 👋 Hi, I'm Chetan Maikhuri
 
+### Quality Engineering Leader | Platform Quality Engineering | Automation & Engineering Excellence
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Apache Subversion](https://img.shields.io/badge/subversion-%23809CC9.svg?style=for-the-badge&logo=subversion&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=programming-maestro&theme=ambient_gradient&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=programming-maestro&theme=ambient_gradient&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=programming-maestro&theme=ambient_gradient&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+**13+ years** of experience building and leading quality engineering practices across **SaaS, eCommerce, BFSI, healthcare, financial markets, and large-scale consumer platforms**.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=programming-maestro&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+I work at the intersection of **engineering, quality, automation, reliability, and delivery** — building scalable automation platforms, strengthening CI/CD quality gates, improving production readiness, and helping engineering organizations move toward **quality-by-design**.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+My approach is simple:
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=programming-maestro&limit=5&theme=dark&combine_all_yearly_contributions=true)
+> **Build quality into the engineering system — not around it.**
 
 ---
-[![](https://komarev.com/ghpvc/?username=programming-maestro&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+I am a **Quality Engineering Leader and hands-on technical architect** focused on building scalable engineering systems that improve software reliability, release confidence, and engineering velocity.
+
+Over the years, my career has evolved from:
+
+**Software Development → Implementation → Production Support → SDET → Automation Architecture → Release Management → Quality Engineering Leadership**
+
+Today, my focus is on:
+
+* 🏗️ **Platform Quality Engineering**
+* 🤖 **Automation & SDET Architecture**
+* 🔄 **CI/CD & Continuous Testing**
+* ⚡ **Performance & Reliability Engineering**
+* ☁️ **Cloud-Native & Distributed Systems Quality**
+* 📊 **Engineering Quality Metrics & Governance**
+* 🧠 **AI-driven Quality Engineering**
+* 👥 **Quality Organization & Capability Building**
+* 🚀 **Engineering Transformation & Excellence**
+
+I enjoy taking ambiguous engineering problems and turning them into **reusable platforms, frameworks, processes, and engineering capabilities**.
+
+---
+
+## 📈 Engineering Impact
+
+Some of the outcomes I've worked toward across different engineering organizations:
+
+* **90% reduction in defect leakage** through shift-left quality engineering, automation and CI/CD quality gates
+* **90% reduction in automation maintenance effort** through reusable architecture, resilient automation and intelligent optimization
+* **99% release confidence** across high-volume product deployments
+* **60–70% faster regression execution** through automation platform modernization and parallel execution
+* **70% faster time-to-market** through automation-first delivery and quality gates
+* Built and scaled QA/SDET organizations and capability frameworks
+* Designed **0→1 automation platforms** and modernized legacy automation ecosystems
+* Improved production readiness through **performance, resilience, release certification and risk-based validation**
+
+## These themes are reflected across my recent Quality Engineering leadership and Platform Quality Engineering resumes.
+
+## 🏗️ What I Build
+
+I particularly enjoy building engineering platforms rather than one-off solutions.
+
+### Quality Engineering Platforms
+
+* Enterprise UI / API / Mobile automation platforms
+* Reusable automation libraries
+* Parallel execution engines
+* Test orchestration systems
+* CI/CD quality gates
+* Release certification frameworks
+* Test data and environment automation
+* Quality dashboards and engineering metrics
+
+### Distributed Systems Quality
+
+* Microservices testing
+* API and contract testing
+* Event-driven systems
+* Kafka / messaging validation
+* Asynchronous workflow testing
+* Service-level testability
+* Production readiness validation
+* Resilience and failure testing
+
+### Reliability & Performance
+
+* Load / stress / spike / soak testing
+* Capacity modelling
+* P95 / P99 latency analysis
+* Scalability validation
+* Failover and recovery testing
+* Chaos / resilience validation
+* Observability-driven quality engineering
+
+### AI & Intelligent Quality Engineering
+
+My current area of exploration is the intersection of **AI and software quality**:
+
+* AI-assisted test generation
+* Intelligent test selection
+* LLM evaluation
+* Prompt validation
+* Agentic AI testing
+* AI accuracy / reliability / safety validation
+* Hallucination detection
+* ML/data validation
+* AI-assisted automation maintenance
+* Quality governance for AI-enabled systems
+
+---
+
+## 🧠 Currently Exploring
+
+I'm continuously expanding my engineering depth into:
+
+* Generative AI
+* Large Language Models
+* Agentic AI
+* LLM Evaluation
+* Machine Learning
+* Data & ML Validation
+* MLOps
+* AI Quality Engineering
+* Distributed Systems
+* Cloud-Native Engineering
+* Kubernetes
+* Observability
+* Reliability Engineering
+
+The goal isn't simply to learn new technologies.
+
+**The goal is to understand how these technologies can be engineered, tested, operated and made reliable at scale.**
+
+---
+
+## 🧪 Engineering Philosophy
+
+### Quality is an Engineering Problem
+
+I believe modern quality engineering should move beyond:
+
+**Test → Find Bugs → Report Bugs**
+
+toward:
+
+**Design → Build → Validate → Observe → Learn → Improve**
+
+That means bringing quality into:
+
+* Architecture
+* API and service design
+* Code reviews
+* Testability
+* CI/CD
+* Infrastructure
+* Observability
+* Production readiness
+* Release governance
+* Engineering metrics
+
+---
+
+## 🛠️ Core Technology Areas
+
+### Languages
+
+`Java` `Python` `TypeScript` `JavaScript` `C#` `SQL`
+
+### Test & Automation
+
+`Playwright` `Selenium` `Cypress` `Appium` `Rest Assured` `Postman`
+
+### Framework Engineering
+
+`PyTest` `JUnit` `TestNG` `NUnit` `BDD` `POM` `Data-Driven` `Contract Testing`
+
+### Performance & Reliability
+
+`JMeter` `k6` `Locust` `JProfiler`
+
+### Cloud & Platform
+
+`AWS` `Azure` `GCP` `Docker` `Kubernetes` `Linux`
+
+### CI/CD & Engineering Tools
+
+`Jenkins` `GitHub Actions` `Git` `Maven` `Confluence` `Jira`
+
+### Data & Observability
+
+`Oracle` `MySQL` `PostgreSQL` `DynamoDB` `Redis` `Prometheus` `Grafana` `ELK`
+
+### Data / ML
+
+`NumPy` `Pandas` `Matplotlib` `Scikit-Learn`
+
+---
+
+# 🧩 What I'm Building Outside Work
+
+## 🏢 OrbynLabs
+
+**OrbynLabs** is my independent engineering and product-building initiative.
+
+I use it as a space to experiment with ideas that combine:
+
+* Software engineering
+* Automation
+* AI
+* Data
+* Productivity
+* Financial technology
+* Developer tooling
+
+Rather than building isolated demos, my objective is to create **real, usable products with maintainable engineering foundations**.
+
+### Products & Experiments
+
+Some of the products and engineering projects I've been working on include:
+
+* **Spendly** — personal finance / expense management
+* **TaskMat** — task and productivity management
+* **Numera** — calculators and mathematical utilities
+* **Assessly** — assessment-oriented product experimentation
+* **FinSight** — financial analysis and stock valuation engine
+* AI / automation experiments
+* Developer productivity tools
+* Engineering utilities and reusable libraries
+
+The broader objective is to turn ideas into **production-quality software**, from architecture and data modelling through automation, testing, deployment and observability.
+
+---
+
+# 🎯 Career Aspirations
+
+I'm particularly interested in opportunities where I can operate at the intersection of **technical depth, engineering leadership and organizational transformation**.
+
+### Near-Term
+
+* Staff / Principal Quality Engineering roles
+* Platform Quality Engineering
+* Automation Architecture
+* Reliability & Performance Engineering
+* AI Quality Engineering
+* Engineering Excellence
+
+### Long-Term
+
+I aspire to lead larger engineering quality organizations as a:
+
+**Head of Quality Engineering → Director / Senior Director of Quality Engineering → Engineering / Quality Transformation Leader**
+
+with a strong focus on:
+
+* Platform engineering
+* Engineering productivity
+* AI-enabled software development
+* Quality transformation
+* Reliability
+* Developer experience
+* Engineering governance
+
+I want to help organizations move from **QA as a validation function** to **Quality Engineering as a core engineering capability**.
+
+---
+
+# 🤝 Let's Collaborate
+
+I'm interested in collaborating on:
+
+* Open-source Quality Engineering tools
+* Test automation frameworks
+* Playwright / Selenium ecosystems
+* AI & LLM evaluation
+* Agentic AI testing
+* Developer productivity tools
+* Distributed systems testing
+* Performance & reliability engineering
+* Data / ML validation
+* Cloud-native engineering
+
+If you're building something interesting in these areas, I'd be happy to explore it.
+
+---
+
+# 📌 Areas You Can Ask Me About
+
+**Quality Engineering**
+**Test Automation**
+**Automation Architecture**
+**SDET Leadership**
+**Platform Quality Engineering**
+**CI/CD Quality Gates**
+**Distributed Systems Testing**
+**Performance Engineering**
+**Reliability Engineering**
+**API & Contract Testing**
+**Cloud-Native Quality**
+**AI / LLM Testing**
+**Engineering Governance**
+**Quality Organization Design**
+
+---
+
+# 📊 GitHub Activity
+
+<!-- Keep your existing GitHub stats widgets here -->
+
+
+
+![](https://streak-stats.demolab.com/?user=programming-maestro\&theme=ambient_gradient\&hide_border=true)
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=programming-maestro\&theme=ambient_gradient\&hide_border=true\&include_all_commits=false\&count_private=false\&layout=compact)
+
+---
+
+## 📚 Education & Continuous Learning
+
+* 🎓 Master's in Information Technology
+* 🎓 Master's in Financial Management
+* 🎓 GNIIT Software Engineering Program
+* 🎓 Advanced Data Science / Machine Learning studies
+* ☁️ Microsoft Azure certifications
+* 🧠 Continuing exploration of AI, ML and Generative AI
+
+---
+
+## ⚡ A Little About Me
+
+I like building things.
+
+Sometimes that means a **quality platform**.
+
+Sometimes an **automation framework**.
+
+Sometimes a **financial engine**.
+
+Sometimes a **mobile application**.
+
+Sometimes just a small script that eliminates a repetitive task.
+
+The common theme is:
+
+> **If something can be engineered better, I want to understand how.**
+
+---
+
+### 👀 Thanks for visiting
+
+If you found something interesting in my repositories, feel free to explore, experiment, fork, or contribute.
+
+**Build → Automate → Measure → Improve.**
