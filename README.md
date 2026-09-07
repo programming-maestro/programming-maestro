@@ -305,7 +305,7 @@ If you're building something interesting in these areas, I'd be happy to explore
 
 ![](https://streak-stats.demolab.com/?user=programming-maestro\&theme=ambient_gradient\&hide_border=true)
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=programming-maestro\&theme=ambient_gradient\&hide_border=true\&include_all_commits=false\&count_private=false\&layout=compact)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=chetan-maikhuri\&theme=ambient_gradient\&hide_border=true\&include_all_commits=false\&count_private=false\&layout=compact)
 
 ---
 
